@@ -7,10 +7,10 @@
 <p>So there is need for Companies to target Audience effectively for their products</p>
 
 <h1>Dataset</h1>
-<p>The dataset consist of 1000 rows and 10 columns<p>
+<p>The dataset consists of 1000 rows and 10 columns<p>
 <p>Columns in the dataset are :<p>
 <p>Daily Time Spent on Site	Age,	Area Income,	Daily Internet Usage,	Ad Topic Line	City,	Gender,	Country,	Timestamp,	Clicked on Ad</p>
 <p>Daily Time is the Total time spent by the user</p>
 <p>Ad Topic Line Describes what kind of ad it is.</p>
-<p>Age,Daily Internet Usageand income area are the personal details of the user collected. </p>
+<p>Age, Daily Internet Usage and income area are the personal details of the user collected. </p>
 <p>Clicked on Ad describes whether the user will click on the Ad or not.</p>
